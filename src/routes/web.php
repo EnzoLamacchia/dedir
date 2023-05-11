@@ -18,6 +18,7 @@ Route::group([
 //    'prefix' => 'detdir'
 //],
 //    function () {
+
     //Report & Export
         Route::get('/determinazioni/report', [DetermineController::class,'createReportPage'])->name('report');
         Route::get('/determinazioni/report/export2excel', [DetermineController::class,'exportReportToExcel']);

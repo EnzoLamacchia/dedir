@@ -14,7 +14,7 @@
             "email": "e.lamacchia@gmail.com"
         }
     ],
-    "minimum-stability": "beta"
+    "minimum-stability": "beta",
     "extra": {
         "laravel": {
             "providers": [

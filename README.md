@@ -1,8 +1,6 @@
-
-<p align="center"><img src="https://github.com/EnzoLamacchia/dedir/blob/main/src/resources/assets/img/brainOrange.png?raw=true" width="100" alt="Logo"></p>
+<p align="center"><img src="https://github.com/EnzoLamacchia/dedir/blob/main/devEL-logo.png?raw=true" width="100" alt="Logo"></p>
 
 # DeDir Determine Dirigenziali
-
 ## Sw Gestione archivio determinazioni dirigenziali
 
 [![Framework](https://img.shields.io/static/v1?label=Framework&message=Laravel%209.x&color=red&style=for-the-badge&logo=laravel)](https://laravel.com)

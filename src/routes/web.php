@@ -6,7 +6,7 @@ use Elamacchia\Dedir\Http\Controllers\CompetenzeController;
 use Illuminate\Support\Facades\Route;
 
 Route::group([
-    'middleware' => ['web','auth:sanctum', 'verified', 'role:amministratore|redattore'],
+    'middleware' => ['web','auth:sanctum', 'verified', 'role:amministratore|gestione_determine'],
     'namespace' => 'Elamacchia\Dedir\Http\Controllers',
     'prefix' => 'detdir'
 ] ,function () {
